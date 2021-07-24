@@ -12,7 +12,6 @@ public class Cat extends Animal {
     protected int limitDistRun;
     protected int limitDistJump;
     protected int limitDistSwim;*/
-private final int LIMIT_DIST_RUN = 1000;
     public Cat(String name, int age) {
         super(name, age);
         this.color = "red";
